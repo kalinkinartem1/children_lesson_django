@@ -15,3 +15,6 @@ python data_generation.py
 
 Для запуска сервера нужно перейти в директорию,в которой находится файл manage.py и запусить его
 python manage.py runserver
+
+Для установки нужных библиотек можно использовать pip install -r requirements.txt
+
